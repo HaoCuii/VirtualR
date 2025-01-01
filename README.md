@@ -10,6 +10,6 @@ A fully responsive, modern landing page for a fictional company called **Virtual
 - Tailwind CSS
 
 ## Tutorial
-This is not my code, and this project is purely here to help me learn about react and tailwind
+This is not my code, and this project is purely here to help me learn about react and tailwind.
 Followed along with this [YouTube tutorial](https://www.youtube.com/watch?v=EwzWg-Joxq0&t=105s).
 [Check out the GitHub repository here](https://github.com/kushald/virtualr).
