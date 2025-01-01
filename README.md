@@ -1,8 +1,15 @@
-# React + Vite
+# VirtualR
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# VirtualR Landing Page
 
-Currently, two official plugins are available:
+A fully responsive, modern landing page for a fictional company called **VirtualR**. Built with **React.js**, **Vite**, and **Tailwind CSS**.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Built With
+- React.js
+- Vite
+- Tailwind CSS
+
+## Tutorial
+This is not my code, and this project is purely here to help me learn about react and tailwind
+Followed along with this [YouTube tutorial](https://www.youtube.com/watch?v=EwzWg-Joxq0&t=105s).
+[Check out the GitHub repository here](https://github.com/kushald/virtualr).
